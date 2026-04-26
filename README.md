@@ -2,10 +2,11 @@
 
 ### Desenvolvedor Backend Java
 
-Iniciei minha jornada na programação em janeiro de 2026 partindo do absoluto zero.
-Em menos de 3 meses percorri Java, OOP, APIs REST, Spring Boot, Spring Security, Spring Data JPA, PostgreSQL, MongoDB e Git/GitHub.
-
-Atualmente desenvolvendo meu primeiro projeto prático com Spring Boot e em busca da primeira oportunidade profissional como estagiário ou desenvolvedor júnior.
+Desenvolvedor Java especializado em microsserviços e Spring Framework, com formação em Análise e Desenvolvimento de Sistemas.
+ 
+Possuo conhecimento no design e implementação de APIs REST, bem como bancos de dados relacionais (PostgreSQL, MySQL) e NoSQL (MongoDB).
+ 
+Tenho facilidade em absorver novas tecnologias e priorizo a colaboração eficaz com a equipe. Busco ir além dos requisitos estabelecidos, identificando oportunidades de melhoria técnica. Adoto uma visão sistêmica sobre os projetos, analisando como cada solução pode ir além do seu escopo técnico e gerar impacto real.
 
 ---
 
