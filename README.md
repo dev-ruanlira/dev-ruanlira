@@ -1,6 +1,6 @@
 # Olá, sou Ruan Lira 👋
 
-### Desenvolvedor Backend Java em formação
+### Desenvolvedor Backend Java
 
 Iniciei minha jornada na programação em janeiro de 2026 partindo do absoluto zero.
 Em menos de 3 meses percorri Java, OOP, APIs REST, Spring Boot, Spring Security, Spring Data JPA, PostgreSQL, MongoDB e Git/GitHub.
